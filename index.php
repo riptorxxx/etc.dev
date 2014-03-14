@@ -1,9 +1,44 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: DeV
- * Date: 14.03.14
- * Time: 11:11
- */
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
 
-phpinfo();
+
+     <body>
+
+
+     </body>
+
+    </head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
